@@ -1,7 +1,3 @@
-<<<<<<< HEAD
-# GettingAndCleaningDataCourseProject
-Coursera: Getting and Cleaning Data by JHU Course Project
-=======
 ## Course Project for Coursera: Getting and Cleaning Data by JHU
 
 *by Wan-Ting Kuo*
@@ -28,4 +24,3 @@ This is the project in week 4 for Getting and Cleaning Data course by JHU on Cou
 
 For more information about this project, go to https://www.coursera.org/learn/data-cleaning/peer/FIZtT/getting-and-cleaning-data-course-project
 
->>>>>>> first commit
